@@ -1,6 +1,8 @@
 # 미래에셋증권 AI 페스티벌: AI Tech
 
+
 ## 프로젝트 개요
+| 실시간 주식 데이터 기반 금융 AI Agent
 
 HyperCLOVA API의 Function Calling 기능을 활용하여 사용자의 금융 관련 질문에 답변하는 AI 에이전트입니다. `yfinance`와 `pykrx` 라이브러리를 통해 실시간 주식 데이터를 조회하고, 자연어 질문을 해석하여 자연어 답변을 제공합니다.
 
