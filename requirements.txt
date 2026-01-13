@@ -1,0 +1,7 @@
+requests
+yfinance
+pandas
+pykrx
+FinanceDataReader
+langchain-naver
+python-dotenv
